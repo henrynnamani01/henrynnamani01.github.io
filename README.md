@@ -38,8 +38,8 @@ Check out my live site here:
 
 ## 📫 Contact Me
 
-- Email: [your-email@example.com] *(update this with your actual email)*
-- LinkedIn: [linkedin.com/in/your-profile](#) *(optional)*
+- Email: [hnnamzb4@gmail.com] *(update this with your actual email)*
+- LinkedIn: [http://linkedin.com/in/henry-nnamani-669843360](#) *(optional)*
 - GitHub: [github.com/henrynnamani01](https://github.com/henrynnamani01)
 
 ---
