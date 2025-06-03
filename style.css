@@ -1,0 +1,138 @@
+/* Reset and basic setup */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #121212;
+  color: #f0f0f0;
+  line-height: 1.6;
+  padding: 0 1rem;
+}
+
+header {
+  background: #1f1f1f;
+  padding: 1rem 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+nav h1 {
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+nav a {
+  color: #aaa;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+.hero {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.highlight {
+  color: #c9be5c;
+}
+
+section {
+  padding: 2rem 0;
+  max-width: 800px;
+  margin: auto;
+}
+
+.service-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.service-list li {
+  background: #1f1f1f;
+  padding: 0.8rem;
+  margin-bottom: 0.5rem;
+  border-radius: 8px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+input,
+textarea {
+  padding: 0.8rem;
+  background: #1f1f1f;
+  border: 1px solid #333;
+  border-radius: 5px;
+  color: #f0f0f0;
+}
+
+button {
+  background: #00bcd4;
+  border: none;
+  padding: 0.8rem;
+  color: #000;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover {
+  background: #0097a7;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  border-top: 1px solid #333;
+  margin-top: 2rem;
+}
+
+#certificates {
+  padding: 2rem 0;
+}
+
+.certificate {
+  background: #1f1f1f;
+  padding: 1rem;
+  border-left: 4px solid #00bcd4;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}
+
+.certificate h4 {
+  margin-bottom: 0.5rem;
+}
+
+.certificate a {
+  color: #00bcd4;
+  text-decoration: none;
+}
+
+.certificate a:hover {
+  text-decoration: underline;
+}
+
+
+
+
